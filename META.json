@@ -1,0 +1,61 @@
+{
+  "category": "data-processing",
+  "created_date": "2025-09-15T22:48:58.415562",
+  "default_ports": [
+    80,
+    443,
+    8080
+  ],
+  "dependencies": [],
+  "description": "nifi is a free and open-source data flow automation. NiFi provides easy-to-use data flow automation and management",
+  "difficulty_level": "intermediate",
+  "documentation_url": "https://howtomgr.github.io/data-processing/nifi",
+  "estimated_setup_time": "15-30 minutes",
+  "features": [
+    "multi-os-support",
+    "comprehensive-documentation",
+    "security-hardening",
+    "performance-optimization",
+    "backup-restore-procedures",
+    "troubleshooting-guides"
+  ],
+  "guide_path": "/data-processing/nifi",
+  "installation_methods": [
+    "native-packages",
+    "source-compilation"
+  ],
+  "last_updated": "2025-09-15T22:48:58.415587",
+  "license": "Open Source",
+  "maintenance_status": "active",
+  "name": "nifi",
+  "repository_url": "https://github.com/howtomgr/nifi",
+  "spec_version": "2.0",
+  "subcategory": "data-processing",
+  "supported_os": [
+    "rhel",
+    "centos",
+    "rocky",
+    "almalinux",
+    "debian",
+    "ubuntu",
+    "arch",
+    "alpine",
+    "opensuse",
+    "sles",
+    "macos",
+    "freebsd",
+    "windows"
+  ],
+  "tags": [
+    "data-processing",
+    "containerization",
+    "observability",
+    "data-storage",
+    "networking",
+    "security",
+    "data-protection"
+  ],
+  "title": "nifi Installation Guide",
+  "version": "1.0.0",
+  "website_url": "https://howtomgr.github.io/data-processing/nifi"
+}
